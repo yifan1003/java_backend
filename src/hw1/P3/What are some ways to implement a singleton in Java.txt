@@ -1,0 +1,4 @@
+1.initialization on class loading
+2.lazy initialization that uses double checked locking
+3.lazy initialization with single checking(with possible repeated initialization)
+4.lazy initialization that uses the class loader(holder class idiom)
