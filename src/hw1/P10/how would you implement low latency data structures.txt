@@ -1,0 +1,5 @@
+1.Data structures that are contained within a single cache-line are more efficient.
+2.Use appropriate containers.
+3.Use smaller data types.
+4.Beware of the standard dynamic memory allocator, which may introduce holes and spread your data structure and algorithm design.
+5.Avoid algorithms and datastructures that exhibit irregular access patterns, and favor linear data structures.
